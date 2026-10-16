@@ -246,3 +246,7 @@ Federation合成エンジンに実際に読み込ませ、最小ダミーリゾ�
 `aruaru-db`ルーム状態スキーマ・翻訳エンジン(Whisper単体)のAgentフック接続へ
 「小規模な基本部分から」段階的に進める(ユーザー指示)。次回再開ポイントは
 [`PORTING.md`](PORTING.md)を参照。
+
+---
+
+作者 / Author: 石塚正浩（MASAHIRO ISHIZUKA） (https://github.com/aon-co-jp)
